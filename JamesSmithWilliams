@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<title>James Smith Williams</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="images/dogExample.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+            <h2>James Smith Williams</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-indigo"></i>The University of Tulsa</p>
+          <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-indigo"></i>Finance with minors in Accounting & Spanish</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-indigo"></i><a href="mailto:jcsmithw@gmail.com">Email</a></p>
+          <p><i class="fa fa-user-circle fa-fw w3-margin-right w3-large w3-text-indigo"></i><a href="https://www.linkedin.com/in/james-smith-williams-053671171/">Linkedin</a></p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-text-indigo"></i>Honors & Awards</b></p>
+          <p>Outstanding Collins College of Business Senior - Spring 2021</p>
+          <p>Jess Chouteau Outstanding Senior - Fall 2020</p>
+          <p>Beta Gamma Sigma Honor Society - Spring 2020</p>
+          <p>Phi Kappa Phi Honor Society - Spring 2020</p>
+          <p>Order of Omega Honor Society - Spring 2019</p>
+          <p>Phi Eta Sigma Honor Society - Fall 2018</p>
+          <p>University of Tulsa President's Honor Roll - Spring 2018-Fall 2020</p>
+          <p>University of Tulsa Dean’s Honor Roll - Fall 2017</p>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-indigo"></i>Skills</b></p>
+          <p>Spanish Fluency</p>
+          <p>Microsoft Office</p>
+          <p>Team-Oriented</p>
+          <p>Self-Motivated</p>
+          <br>
+          
+          <br>
+          <br>
+        </div>
+         
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-briefcase fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Leadership and Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Incoming Finance & Accounting Conoco Phillips Employee</b></h5>
+          <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2021-Present</h6>
+          <p>Doing some finance stuff </p>
+          <p>Avoiding the accounting stuff</p>
+          <hr>
+        </div>
+  
+       <div class="w3-container">
+        <h5 class="w3-opacity"><b>Student Association</b></h5>
+        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>January 2019 - Present</h6>
+        <h6 class="w3-text-indigo"><i class="fa fa-user fa-fw w3-margin-right"></i>Student Body Vice President</h6>
+          <p>Do ten times more work than the president for half the recognition.</p>
+          <hr>
+        </div>
+       <div class="w3-container">
+        <h5 class="w3-opacity"><b>Future Alumni Council</b></h5>
+        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2018 - Present</h6>
+        <h6 class="w3-text-indigo"><i class="fa fa-user fa-fw w3-margin-right"></i>Vice President of Alumni Engagement</h6>
+         <p>Work to plan and execute alumni and student events to provide networking opportunities.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+        <h5 class="w3-opacity"><b>Sigma Nu</b></h5>
+        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2017 - Present</h6>
+        <h6 class="w3-text-indigo"><i class="fa fa-user fa-fw w3-margin-right"></i>President</h6>
+          <p>Lead and motivate officers and over fifty general members.</p>
+          <p>Work with leaders across campus to maintain positive relationship and support other organizations.</p>
+          <p>Implement and uphold the rules and standards of the larger national organizations within the chapter.</p>
+          <p>Mediate conflict and solve problems both within the chapter and externally with other organizations.</p>
+          <hr>
+        </div>
+       <div class="w3-container">
+        <h5 class="w3-opacity"><b>Presidential Leaders Fellowship</b></h5>
+        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2017 - May 2018</h6>
+          <p>PLF is a class led by the President of the University of Tulsa.</p>
+          <p>Members research problems/issues facing the Tulsa community and present on their effects and possible solutions.</p>
+          <hr>
+        </div>
+        
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>The University of Tulsa</b></h5>
+          <h6 class="w3-text-indigo"><i class="fa fa-mortar-board fa-fw w3-margin-right"></i>Expected Graduation - May 2021</h6>
+          <h6 class="w3-text-indigo"><i class="fa fa-pencil fa-fw w3-margin-right"></i>GPA: 3.95/4.0</h6>
+          <p>Finance major</p>
+          <p>Accounting & Spanish minors</p>
+          <hr>
+        </div>
+        
+<div class="w3-container w3-white">
+    
+        
+   <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container 002b80 w3-center w3-margin-top">
+  <p>&#169; Morgan Wilson 2021, contact <a href="mailto:wilson.em.99@gmail.com">creator</a> for details</p>
+</footer>
+
+</body>
+</html>
